@@ -1,4 +1,4 @@
-# factorial_app
+# Fibonacci Sequence in Flutter | Dart
 
 A new Flutter project.
 
